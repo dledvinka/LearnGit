@@ -1,4 +1,4 @@
-First test - this is all right
+First test
 
 line in the first file¨
 
