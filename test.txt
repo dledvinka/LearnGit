@@ -1,4 +1,4 @@
-First test
+First test - this is kinda OK
 
 line in the first file¨
 
