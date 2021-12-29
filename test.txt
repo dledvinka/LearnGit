@@ -1,1 +1,3 @@
 First test
+
+line in the first file
